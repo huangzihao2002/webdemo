@@ -1,4 +1,4 @@
-// src/router/index.js
+// src/router/index.ts
 import { createRouter, createWebHistory } from 'vue-router'
 
 // 动态导入视图组件（支持代码分割）
